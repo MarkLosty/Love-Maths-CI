@@ -4,4 +4,5 @@
 // 3. Learn how to avoid creating global variables
 // 4. Comfortable with JS Functions
 
-// 
+// Single Responsibility Principle (SRP)
+// "A module should be responsible to one, and only one, actor."
