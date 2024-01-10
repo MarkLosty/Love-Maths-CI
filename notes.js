@@ -6,3 +6,15 @@
 
 // Single Responsibility Principle (SRP)
 // "A module should be responsible to one, and only one, actor."
+// "each function one main job"
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
